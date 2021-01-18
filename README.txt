@@ -1,6 +1,11 @@
 Main Page -> https://cancerandfish.github.io/
 主站链接：https://cancerandfish.github.io/
 
+Hello, everyone. This is Cancer（侃侃）.
+This page is created by me and also contributed by Sleepyfish, mainly for saving our past works.
+Thank you for your support. 
+Your comments are always welcome and encouraged!
+
 
 
 __________________________________
