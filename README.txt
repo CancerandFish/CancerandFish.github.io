@@ -1,5 +1,5 @@
 Main Page -> https://cancerandfish.github.io/
-主站链接：https://cancerandfish.github.io/
+
 
 Hello, everyone. This is Cancer（侃侃）.
 
